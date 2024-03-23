@@ -1,0 +1,6 @@
+hyperlinks:
+
+repo: https://github.com/marqo-ai/marqo
+blog: https://www.marqo.ai/blog
+forum: https://community.marqo.ai/
+docs: https://docs.marqo.ai/2.3.0/#setup-and-installation
