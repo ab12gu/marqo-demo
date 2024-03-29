@@ -1,3 +1,14 @@
+
+
+Semantic Search:
+- Hyperlink: https://en.wikipedia.org/wiki/Semantic_search
+- 
+
+Multimodel Learning:
+https://en.wikipedia.org/wiki/Multimodal_learning
+https://en.wikipedia.org/wiki/Multimodal_search
+
+
 hyperlinks
 
 popular(sachin recc): https://www.pinecone.io/

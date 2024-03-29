@@ -1,6 +1,26 @@
+Backend Marqo 1:
+- OpenSearch as vector storage
+- Lucene engine
+- unstructured index
+
+Marqo 2: 
+- Vespa as vector storage
+- Choose between an unstructured index (default) or a structured index
+
+
 hyperlinks:
 
 repo: https://github.com/marqo-ai/marqo
 blog: https://www.marqo.ai/blog
 forum: https://community.marqo.ai/
 docs: https://docs.marqo.ai/2.3.0/#setup-and-installation
+dense retrieval: https://docs.marqo.ai/1.0.0/Models-Reference/dense_retrieval/
+
+reddit: https://www.reddit.com/r/MachineLearning/comments/xk31n8/p_my_cofounder_and_i_quit_our_engineering_jobs_at/
+multimodel search: https://github.com/marqo-ai/marqo/blob/mainline/examples/MultiModalSearch/article.md
+
+medium article: https://medium.com/@jesse_894/introducing-marqo-build-cloud-native-tensor-search-applications-in-minutes-9cb9a05a1736
+
+
+Runs on VESPA: https://vespa.ai/
+- https://github.com/vespa-engine/vespa
