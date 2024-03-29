@@ -1,4 +1,4 @@
-# let's print out the results:
+# basic query operation
 import marqo
 import pprint
 
